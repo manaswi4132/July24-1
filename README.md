@@ -2,3 +2,5 @@
 # lets add changes
 
 # you should add changes here
+
+### you should know about git ignore
